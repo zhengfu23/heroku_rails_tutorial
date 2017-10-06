@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e04127-52b8-4a28-98b6-fa7ffb510dcf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/death.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/death.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/escape_pod.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/escape_pod.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/ex19.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/ex19.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/laser_weapon_armory.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/laser_weapon_armory.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/map.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/map.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/ex19.rb" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />

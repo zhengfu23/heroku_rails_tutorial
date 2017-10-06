@@ -6,7 +6,6 @@ class Engine
 
   def play
     current_scene = @scene_map.opening_scene
-    puts current_scene
     last_scene = @scene_map.next_scene('finished')
 
     while current_scene != last_scene
