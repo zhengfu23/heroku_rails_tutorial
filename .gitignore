@@ -20,3 +20,5 @@
 .idea/workspace.xml
 .DS_Store
 *.xml
+*.iml
+*.xml
