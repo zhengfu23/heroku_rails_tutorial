@@ -10,6 +10,7 @@ class EscapePod < Scene
     puts 'do you take?'
 
     good_pod = rand(1..5)
+    puts "psst, take #{good_pod}!"
     print '[pod #]> '
     guess = $stdin.gets.chomp.to_i
 

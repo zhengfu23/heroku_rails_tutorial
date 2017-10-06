@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e04127-52b8-4a28-98b6-fa7ffb510dcf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/death.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/death.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/escape_pod.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/escape_pod.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/ex19.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/ex19.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/laser_weapon_armory.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/laser_weapon_armory.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/map.rb" afterPath="$PROJECT_DIR$/app/views/welcome/learn_ruby_the_hard_way/basic_oop_design/map.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -275,7 +279,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

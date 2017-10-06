@@ -9,6 +9,7 @@ class LaserWeaponArmory < Scene
     puts "wrong 10 times then the lock closes forever and you can't"
     puts 'get the bomb.  The code is 3 digits.'
     code = "#{rand(1..9)}#{rand(1..9)}#{rand(1..9)}"
+    puts "psst.... code is #{code}!"
     print '[keypad]> '
     guess = $stdin.gets.chomp
     guesses = 0
