@@ -7,7 +7,7 @@
     <th>slug</th>
   </tr>
   <% @courses.each do |course| %>
-    <tr>
+    <tr class=<%= cycle('even', 'odd') %>>
       <td><%= course["id"] %></td>
       <td><%= course["name"] %></td>
       <td><%= course["slug"] %></td>
