@@ -1,0 +1,16 @@
+<h1>Searching for - <%= @search_term %></h1>
+
+<table border="1">
+  <tr>
+    <th>Course ID</th>
+    <th>Name</th>
+    <th>slug</th>
+  </tr>
+  <% @courses.each do |course| %>
+    <tr>
+      <td><%= course["id"] %></td>
+      <td><%= course["name"] %></td>
+      <td><%= course["slug"] %></td>
+    </tr>
+  <% end %>
+</table>
