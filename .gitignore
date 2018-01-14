@@ -25,3 +25,4 @@
 *.xml
 *.xml
 .ruby-version
+.idea/
