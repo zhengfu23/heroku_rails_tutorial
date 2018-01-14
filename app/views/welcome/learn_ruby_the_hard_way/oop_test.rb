@@ -71,7 +71,7 @@ end
 loop do
   snippets = PHRASES.keys.sort_by { rand }
 
-  for snippet in snippets
+  snippets.each do |snippet|
     phrase = PHRASES[snippet]
     question, answer = convert(snippet, phrase)
 
